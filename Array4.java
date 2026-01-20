@@ -21,5 +21,6 @@ public class Array4 {
                 System.out.println(arr[i]+" is less than 10");
             }
         }
+        sc.close();
     }
 }

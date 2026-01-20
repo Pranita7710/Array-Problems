@@ -17,11 +17,10 @@ public class Array2 {
             System.out.println(arr[i]);
             flag=true;
         }
-        if(flag==false){
-            System.out.println("none");
-        }
+        
         
     }
+    sc.close();
     
     }
     

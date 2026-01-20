@@ -20,5 +20,6 @@ public class Array12 {
                 System.out.println(arr[i]);
             }
         }
+        sc.close();
     }
 }

@@ -24,6 +24,7 @@ public class Array1{
             System.out.println(ch+ "present at"+i);
          }   
     }
+    sc.close();
   }
 }
 

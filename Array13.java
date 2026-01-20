@@ -17,6 +17,7 @@ public class Array13 {
                 System.out.println("elements greater then 5 and less than 9 is  "+arr[i]);
             }
         }
+        sc.close();
 
     }
 }

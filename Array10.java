@@ -17,5 +17,6 @@ public class Array10 {
                 System.out.println("vowel"+ " "+arr[i]+" is present at:"+i);
             }
         }
+        sc.close();
     }
 }

@@ -21,6 +21,6 @@ public class Array11 {
             }
         }
         System.out.println("sum of product of odd indexed elements & even indexed elements is:"+(oddsum+evensum));
-
+        sc.close();
     }
 }

@@ -16,6 +16,7 @@ public class Array6 {
         for(int i=0;i<count;i++){
             System.out.println(agearr[i]);
         }
+        sc.close();
 
 
     }

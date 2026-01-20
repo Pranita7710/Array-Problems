@@ -20,5 +20,6 @@ public class Array8 {
             
         }
         System.out.println("count of even number is"+count);
+        sc.close();
     }
 }
